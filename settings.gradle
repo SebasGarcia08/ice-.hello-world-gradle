@@ -8,4 +8,5 @@
  */
 
 rootProject.name = 'ice-tutos'
-include('app', 'list', 'utilities')
+include 'client'
+include 'server'
